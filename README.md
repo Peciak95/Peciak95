@@ -6,9 +6,9 @@
 
 ### 📊 **Technical Skills**:
 - **Excel**: Proficient (Pivot tables , Power Pivot, VBA, macros, advanced formulas, mail merges, data analysis)
-- **DAX, Power Query**: Good, continuously developing
-- **Power BI**: Dashboard creation, data visualization, reporting
-- **SQL**: Basic, currently undergoing intensive learning
+- **DAX,Power Query**: Intermediate
+- **Power BI**: Intermediate - (Dashboard creation, data visualization, reporting)
+- **SQL**: Competent (Writing queries, creating and modyfying tables, managing keys, defining relationships between tables)
 - **Python**: Basic, currently undergoing intensive learning
 - **HTML**: Basic,
 - **CSS**: Basic
@@ -61,9 +61,9 @@ I am committed to continuous learning and growth. My current focus includes:
 
 ### 📊 **Umiejętności techniczne**:
 - **Excel**: Biegły (Tabele przestawne, Power Pivot, VBA, Makra, zaawansowane formuły, korespondencje seryjne, analiza danych)
-- **DAX, Power Query**: Dobry, wciąż rozwijający się
-- **Power BI**: Tworzenie dashboardów, wizualizacja danych, raportowanie
-- **SQL**: Podstawy, w trakcie intensywnej nauki
+- **DAX, Power Query**: Średniozaawansowany
+- **Power BI**: Średniozaawansowany (Tworzenie dashboardów, wizualizacja danych, raportowanie)
+- **SQL**: Kompetentny (Pisanie zapytań, tworzenie i modyfikowanie tabel, zarządzanie kluczami, definiowanie relacji między tabelami)
 - **Python**: Podstawy, w trakcie intensywnej nauki
 - **HTML**: Podstawy
 - **CSS**: Podstawy
